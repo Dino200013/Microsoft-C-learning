@@ -5,3 +5,16 @@
 錯誤訊息: (1,19)意思為第1行第19個字
 
 註解方式//
+
+# C# 變數與資料型別
+
+## 常見資料型別
+- `int`：整數
+- `string`：字串
+- `bool`：布林值
+- `double`：浮點數
+
+```csharp
+int age = 25;
+string name = "John";
+bool isActive = true;
